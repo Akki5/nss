@@ -1,0 +1,21 @@
+<!-- featured -->	
+	<div id="featured">			
+	
+		<div id="featured-block" class="clear">
+				
+			
+			<div class="image-block">
+			<img width=100% src="slideshow/deaf/img (1).jpg" onclick="javascript:void(viewer1.show(0))" onmouseover="this.style.cursor='pointer'"/>	
+         </div>			
+			
+			<div class="text-block">
+				<h3>Roorkee School for the Deaf</h3>
+				<p>On the occasion of International Day for the Persons with Disabilities i.e. 3rd Dec, 2010, NSS IIT Roorkee organised a program at Roorkee School for the Deaf so that the students of IIT Roorkee get to know about the school and the plight of the deaf students and could contribute something to this noble cause. The Principal and teachers told the students about the problems being faced by the deaf students and the steps taken by the school to teach these students. In accordance with the National Policy of Education, many theses at M.Tech. and Ph.D. levels have been submitted by the IIT Roorkee students in the area of deafness for which the school has acted as a live workshop and a support system for research.</p>
+				
+				<p><a onClick="loadurl(6)">Back to Gallery</a></p>
+								
+			</div>
+		
+		</div>		
+	
+	<!-- /featured -->

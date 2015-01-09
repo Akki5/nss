@@ -1,0 +1,21 @@
+<!-- featured -->		
+	<div id="featured">			
+	
+		<div id="featured-block" class="clear">
+				
+			
+			<div class="image-block">
+				<img src="slideshow/cloth/img (1).jpg" onclick="javascript:void(viewer2.show(0))" onmouseover="this.style.cursor='pointer'"/>
+         </div>			
+			
+			<div class="text-block">
+				<h3>Cloth Distribution</h3>
+				<p>At the onset of the winter season, a cloth distribution campaign was also organised in the month of October, 2010. Clothes collected from students and staff members of IIT Roorkee were distributed amongst the construction workers at a construction site near the Biotechnology department of IIT Roorkee.</p>
+				
+				<p><a onClick="loadurl(6)">Back to Gallery</a></p>
+								
+			</div>
+		
+		</div>		
+	
+	<!-- /featured -->

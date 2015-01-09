@@ -1,0 +1,25 @@
+<!-- featured -->		
+	<div id="featured">			
+	
+		<div id="featured-block" class="clear">
+				
+			
+			<div class="image-block">
+				<img src="slideshow/bdc/bdc.jpg" onclick="javascript:void(viewer4.show(0))" onmouseover="this.style.cursor='pointer'"/>
+         </div>			
+			
+			<div class="text-block">
+				<h3>Blood Donation Camp</h3>
+				<p>NSS, IITR organized a Blood Donation Camp at IITR Hospital on 3rd October, 2010 in association with IMA Blood Bank of Uttarakhand, Dehradun and Himalayan Institute Hospital, Dehradun. The entire program of the camp spanned over 2 days with a motivational camp being organized on 2nd October, 2010 where doctors from both the Blood Banks and some other dignitaries gave highly motivational and educational speeches on blood donation. Following this, pamphlets were also distributed in and around IIT Roorkee campus regarding blood donation camp. 
+On 3rd October, blood donation camp was organized at IIT Roorkee Hospital under the supervision of the Dr. Smita Jha and Dr. R. Jayaganathan, Program Officers of NSS, IIT Roorkee. The camp was inaugurated by the Dr. S.C. Saxena, Director, IIT Roorkee. The camp was a huge success resulting in collection of 350 units of blood. The donors underwent a complete medical checkup before they were allowed to donate blood, to ensure safe blood collection. Later on, they were also issued their complete blood test reports which otherwise cost Rs. 1000. Gifts and certificates were also distributed to the donors. 
+The donated blood is utilized by patients suffering from cancer, hepatitis, AIDS, syphilis and is also used to replace blood lost by people in accidents.
+The next Blood Donation Camp will be organized in March 2011 in IIT Hospital. Make sure you donate blood. All it costs is a little love.
+				</p>
+				
+				<p><<a onClick="loadurl(6)">Back to Gallery</a></p>
+								
+			</div>
+		
+		</div>		
+	
+	<!-- /featured -->
